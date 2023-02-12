@@ -10,15 +10,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-    - name: Zip Folder
-      run: zip -r ${{ github.event.repository.name }}.zip ./Platforms/USA_heroes/_images
+      - name: Zip Folder
+        run: cd USA_heroes; zip -r USA_heroes.zip Platforms
 
-    - name: Release
-      uses: softprops/action-gh-release@v1
-      if: startsWith(github.ref, 'refs/tags/')
-      with:
-        files: ${{ github.event.repository.name }}.zip
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Zip Folder
+        run: cd USA_monsters; zip -r USA_monsters.zip Platforms
+        
+      - name: Zip Folder
+        run: cd WORLD_heroes; zip -r WORLD_heroes.zip Platforms
+ 
+      - name: Zip Folder
+        run: cd WORLD_monsters; zip -r WORLD_monsters.zip Platforms
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            ./USA_heroes/USA_heroes.zip
+            ./USA_monsters/USA_monsters.zip
+            ./WORLD_heroes/WORLD_heroes.zip
+            ./WORLD_monsters/WORLD_monsters.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
