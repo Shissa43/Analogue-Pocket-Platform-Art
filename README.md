@@ -12,7 +12,8 @@ CONTENT:
 ![SEGAgen2 small](https://user-images.githubusercontent.com/123542883/218718237-85a0e063-37f6-4038-ba54-e13c4b042be3.png)
 ![SEGAgen1small](https://user-images.githubusercontent.com/123542883/218719316-af1bf242-555f-4437-b73b-66ddc409de36.png)
 
-![ATARI2600 small](https://user-images.githubusercontent.com/123542883/218720303-7ae138a6-0417-4a68-acbf-4d5911460a90.png)
+![ATARI2600heroes small](https://user-images.githubusercontent.com/123542883/218760884-c90e9930-817a-4bec-87a4-a48a8920f5aa.png)
+![ATARI2600monsters small](https://user-images.githubusercontent.com/123542883/218760926-fd002fc6-f325-40bf-b421-06f52a5b2366.png)
 ![ATARI7800small](https://user-images.githubusercontent.com/123542883/218720537-5fd22ac6-a43b-467b-a378-73d57fcc15ff.png)
 ![COLECO small](https://user-images.githubusercontent.com/123542883/218720617-3ecb40ce-5936-45ba-ae02-f91ceecc1bbc.png)
 
