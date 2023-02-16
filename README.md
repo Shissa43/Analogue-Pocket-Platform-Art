@@ -14,8 +14,11 @@ CONTENT:
 
 ![ATARI2600heroes small](https://user-images.githubusercontent.com/123542883/218760884-c90e9930-817a-4bec-87a4-a48a8920f5aa.png)
 ![ATARI2600monsters small](https://user-images.githubusercontent.com/123542883/218760926-fd002fc6-f325-40bf-b421-06f52a5b2366.png)
-![ATARI7800small](https://user-images.githubusercontent.com/123542883/218720537-5fd22ac6-a43b-467b-a378-73d57fcc15ff.png)
-![COLECO small](https://user-images.githubusercontent.com/123542883/218720617-3ecb40ce-5936-45ba-ae02-f91ceecc1bbc.png)
+![ATARI7800heroesmall](https://user-images.githubusercontent.com/123542883/219232678-7e423239-b5bc-43d2-a371-c3ce1f6cccc8.png)
+![ATARI7800monstersmall](https://user-images.githubusercontent.com/123542883/219232687-7c5748cc-627f-4694-8f79-ce2ae21699a8.png)
+![ColecoheroesSM](https://user-images.githubusercontent.com/123542883/219232745-95cbc7a1-bb63-477f-8698-601214026309.png)
+![ColecomonstersSM](https://user-images.githubusercontent.com/123542883/219232757-68dca978-6cf8-41c2-9713-af9f0f3b45c5.png)
+
 
 INSTRUCTIONS:
 
