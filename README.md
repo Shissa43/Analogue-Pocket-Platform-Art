@@ -18,6 +18,11 @@ CONTENT:
 ![ATARI7800monstersmall](https://user-images.githubusercontent.com/123542883/219232687-7c5748cc-627f-4694-8f79-ce2ae21699a8.png)
 ![ColecoheroesSM](https://user-images.githubusercontent.com/123542883/219232745-95cbc7a1-bb63-477f-8698-601214026309.png)
 ![ColecomonstersSM](https://user-images.githubusercontent.com/123542883/219232757-68dca978-6cf8-41c2-9713-af9f0f3b45c5.png)
+![SG1000h_small](https://user-images.githubusercontent.com/123542883/219678517-e64af34e-9131-4cfc-bc03-1cfe80a15853.png)
+![SG1000m_small](https://user-images.githubusercontent.com/123542883/219678535-4333b302-dd19-41f2-9f22-0b0aa187e169.png)
+
+![SMSm_small](https://user-images.githubusercontent.com/123542883/219678605-b069debb-eb0d-4886-b08e-c98da944274f.png)
+![SMSh_small](https://user-images.githubusercontent.com/123542883/219678586-0b4cde47-f477-486a-b54c-d6f2790bf599.png)
 
 
 INSTRUCTIONS:
