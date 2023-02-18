@@ -14,6 +14,9 @@ CONTENT:
 
 ![SMSm_small](https://user-images.githubusercontent.com/123542883/219678605-b069debb-eb0d-4886-b08e-c98da944274f.png)
 ![SMSh_small](https://user-images.githubusercontent.com/123542883/219678586-0b4cde47-f477-486a-b54c-d6f2790bf599.png)
+![SMK3_hsmall](https://user-images.githubusercontent.com/123542883/219868273-9122960b-4676-4379-87c5-654d3359af07.png)
+![SMK3_msmall](https://user-images.githubusercontent.com/123542883/219868276-f956abbd-9652-4792-8e2a-80575001af37.png)
+
 
 ![NINTENDOsfc1small](https://user-images.githubusercontent.com/123542883/218719375-e968ceb3-99cb-4822-ad4a-2c792d10ce3e.png)
 ![NINTENDOsfc2small](https://user-images.githubusercontent.com/123542883/218719394-d73edd76-baef-43f3-84e4-9a847806fe39.png)
