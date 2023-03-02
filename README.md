@@ -29,7 +29,10 @@ CONTENT:
 ![FAMICOMm_small](https://user-images.githubusercontent.com/123542883/220833408-f9fcf7f8-ba8d-41f9-bf09-294bc8cbc910.png)
 
 
-
+![PCEheroes_small](https://user-images.githubusercontent.com/123542883/222455727-38b008d9-2622-4e65-9e94-dd2ca3ee6658.png)
+![PCEmonsters_small](https://user-images.githubusercontent.com/123542883/222455740-aa54370b-a8c4-4cf5-a731-4f35e89719fb.png)
+![TurbografxHeroes_small](https://user-images.githubusercontent.com/123542883/222455745-a2007814-660c-4e6d-a49a-6a37e3fc1fcd.png)
+![TurbografxMonsters_small](https://user-images.githubusercontent.com/123542883/222455749-1891487b-6015-4c49-bf85-094c2051a99f.png)
 ![NINTENDOsfc1small](https://user-images.githubusercontent.com/123542883/218719375-e968ceb3-99cb-4822-ad4a-2c792d10ce3e.png)
 ![NINTENDOsfc2small](https://user-images.githubusercontent.com/123542883/218719394-d73edd76-baef-43f3-84e4-9a847806fe39.png)
 ![NINTENDOsnes1small](https://user-images.githubusercontent.com/123542883/218719409-8cd341e5-8704-4d96-9ef5-19dff981c8ac.png)
