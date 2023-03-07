@@ -16,7 +16,7 @@ jobs:
         run: cd USA_platforms; zip -r USA_platforms.zip Platforms
 
       - name: Zip Folder
-        run: cd WORLD_platforms; zip -r WORLD_platforms.zip Platforms
+        run: cd WORLD_platforms; zip -r JAPAN_platforms.zip Platforms
 
       - name: Release
         uses: softprops/action-gh-release@v1
@@ -24,6 +24,6 @@ jobs:
         with:
           files: |
             ./USA_platforms/USA_platforms.zip
-            ./WORLD_platforms/WORLD_platforms.zip
+            ./JAPAN_platforms/JAPAN_platforms.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
