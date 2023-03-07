@@ -4,6 +4,9 @@ Sprite heroes/monsters themed platform png files for the Analogue Pocket console
 
 ![131689](https://user-images.githubusercontent.com/123542883/222607670-7210c82e-fa3e-460f-a8e0-ef81bb5c7ec5.gif)
 
+CONSOLES
+
+
 ![Channel_F_small](https://user-images.githubusercontent.com/123542883/221409726-930e48a3-35ce-4fae-a082-feb9d7d46c1c.png)
 ![Adventurevision_small](https://user-images.githubusercontent.com/123542883/221409734-555700c8-95d2-4203-b116-fdbc8f490fa9.png)
 ![arcadia_2001_small](https://user-images.githubusercontent.com/123542883/221409737-a6b74925-ec6c-46eb-b57d-3fd9aeb87540.png)
@@ -43,6 +46,8 @@ Sprite heroes/monsters themed platform png files for the Analogue Pocket console
 ![SEGAgen2 small](https://user-images.githubusercontent.com/123542883/218718237-85a0e063-37f6-4038-ba54-e13c4b042be3.png)
 ![SEGAgen1small](https://user-images.githubusercontent.com/123542883/218719316-af1bf242-555f-4437-b73b-66ddc409de36.png)
 
+
+ARCADE
 
 ![NGaes_hsmall](https://user-images.githubusercontent.com/123542883/223468501-249d8101-a840-4fd9-a5b8-e3750eca85e6.png)
 ![NGmvs_hsmall](https://user-images.githubusercontent.com/123542883/223468516-43aa9be9-988f-475c-ab84-61a3746c1d42.png)
