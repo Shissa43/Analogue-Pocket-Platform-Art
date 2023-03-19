@@ -1,6 +1,6 @@
 # Analogue-Pocket-Platform-Art
 
-Sprite heroes/monsters themed platform png files for the Analogue Pocket console Cores!
+Platform png files for the Analogue Pocket console Cores!
 
 ![131689](https://user-images.githubusercontent.com/123542883/222607670-7210c82e-fa3e-460f-a8e0-ef81bb5c7ec5.gif)
 
@@ -13,6 +13,6 @@ Sprite heroes/monsters themed platform png files for the Analogue Pocket console
 
 INSTRUCTIONS:
 
-Download prefered console region art zip and copy the .bin files to your Pocket's micro SD card's Platforms/_images folder.
+Download your prefered console region art zip and copy the .bin files to your Pocket's micro SD card's Platforms/_images folder.
 
 ![99165](https://user-images.githubusercontent.com/123542883/222607932-414202ec-5a4d-444e-8fb3-b7d1d9ac738c.gif)
