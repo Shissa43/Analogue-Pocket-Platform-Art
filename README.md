@@ -2,7 +2,7 @@
 
 Platform image files for the Analogue Pocket console and handheld Cores!
 
-Go to the [Latest release page](https://github.com/Shissa43/Analogue-Pocket-Platform-Art/releases/tag/v0.1.4) and download your prefered console region art zip (USA_pack or WORLD_pack) and copy the .bin files to your Pocket's micro SD card's Platforms/_images folder.
+Go to the [Latest release page](https://github.com/Shissa43/Analogue-Pocket-Platform-Art/releases/tag/v0.1.5) and download your prefered console region art zip (USA_pack or WORLD_pack) and copy the .bin files to your Pocket's micro SD card's Platforms/_images folder.
 
 ![99165](https://user-images.githubusercontent.com/123542883/222607932-414202ec-5a4d-444e-8fb3-b7d1d9ac738c.gif)
 
