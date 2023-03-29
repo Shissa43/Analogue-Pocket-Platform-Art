@@ -4,7 +4,10 @@ Platform image files for the Analogue Pocket console and handheld Cores!
 
 Go to the [Latest release page](https://github.com/Shissa43/Analogue-Pocket-Platform-Art/releases/tag/v0.1.5) and download your prefered console region art zip (USA_pack or WORLD_pack) and copy the .bin files to your Pocket's micro SD card's Platforms/_images folder.
 
-A Master pack is also now available. It will include multiple game banners to choose from for each platforms. 
+A big Master pack zip file is also now available. It will include everything including multiple game banners to choose from for each platforms. 
+
+I have also added and slightly edited for clarity (increased size/contrast, slight layout shift) the simpler [Spiritualize1997 art set](https://github.com/spiritualized1997/openFPGA-Platform-Art-Set). Some alternative artworks was added to fill out missing platforms (SegaMarkIII, Poke-mini...).
+Many thanks to [Spiritualize1997](https://github.com/spiritualized1997) and [agg23](https://github.com/agg23) for the art work.
 
 ![99165](https://user-images.githubusercontent.com/123542883/222607932-414202ec-5a4d-444e-8fb3-b7d1d9ac738c.gif)
 
