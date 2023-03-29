@@ -8,12 +8,14 @@ A big Master pack zip file is also now available. It will include everything inc
 
 I have also added and slightly edited for clarity (increased size/contrast, slight layout shift) the simpler [Spiritualize1997 art set](https://github.com/spiritualized1997/openFPGA-Platform-Art-Set). Many thanks to [Spiritualize1997](https://github.com/spiritualized1997) and [agg23](https://github.com/agg23) for the art work.
 
-![FPGAfast](https://user-images.githubusercontent.com/123542883/228557559-511df205-68ea-4740-a100-3cbe173a878e.gif)
-
-
-
 Some alternative artworks were added to fill out missing platforms (SegaMarkIII, Poke-mini...).
 Have fun!
+
+| ![FPGAfast](https://user-images.githubusercontent.com/123542883/228557559-511df205-68ea-4740-a100-3cbe173a878e.gif) | 
+| ------------- |
+
+
+
 
 ![99165](https://user-images.githubusercontent.com/123542883/222607932-414202ec-5a4d-444e-8fb3-b7d1d9ac738c.gif)
 
