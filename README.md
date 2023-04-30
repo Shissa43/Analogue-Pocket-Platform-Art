@@ -18,7 +18,8 @@ Have fun!
 
 | Simple Content |
 | ------------- |
-| ![FPGAfast](https://user-images.githubusercontent.com/123542883/228557559-511df205-68ea-4740-a100-3cbe173a878e.gif) | 
+|  ![simple_specs](https://user-images.githubusercontent.com/123542883/235362325-148e8bbc-1e83-4b2a-be55-e344ffeabddc.gif)
+| 
 
 
 
