@@ -19,7 +19,7 @@ Have fun!
 | Simple Content |
 | ------------- |
 |  ![simple_specs](https://user-images.githubusercontent.com/123542883/235362325-148e8bbc-1e83-4b2a-be55-e344ffeabddc.gif)
-| 
+ 
 
 
 
@@ -27,7 +27,8 @@ Have fun!
 
 | Console Banners | Handheld Banners |
 | ------------- | ------------- |
-| ![Consoles](https://user-images.githubusercontent.com/123542883/227727614-d4c7de28-347d-4c10-ad91-8340f4c53bfa.png)   | ![Handhelds](https://user-images.githubusercontent.com/123542883/226643835-f0b22484-021c-4f8c-ab22-47afaceda122.png)  |
+| ![consoles](https://user-images.githubusercontent.com/123542883/235362684-ccc80290-cd1f-44ce-9ec2-433b4156aece.png) |  ![handhelds](https://user-images.githubusercontent.com/123542883/235362812-c1e5a199-b69a-423e-acfd-f6a759dc2436.png)
+ 
 
 
 
