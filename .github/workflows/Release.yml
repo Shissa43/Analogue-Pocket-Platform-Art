@@ -13,16 +13,16 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Zip Folder
-        run: cd home; zip -r Simpler_platforms.zip ./Simpler_Japan/Platforms
+        run: zip -r Simpler_platforms.zip ./Simpler_Japan/Platforms
 
       - name: Zip Folder
-        run: cd arcade; zip -r Simpler_platforms.zip ./Simpler_USA/Platforms
+        run: zip -r Simpler_platforms.zip ./Simpler_USA/Platforms
         
       - name: Zip Folder
-        run: cd arcade; zip -r Banners_platforms.zip ./Banners_USA/Platforms
+        run: zip -r Banners_platforms.zip ./Banners_USA/Platforms
        
       - name: Zip Folder
-        run: cd arcade; zip -r Banners_platforms.zip ./Banners_JAPAN/Platforms
+        run: zip -r Banners_platforms.zip ./Banners_JAPAN/Platforms
         
       - name: Release
         uses: softprops/action-gh-release@v1
