@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Zip Folder
-        run: zip -r Simpler_platforms.zip ./Simpler_/Platforms
+        run: zip -r Simpler_platforms.zip ./Simpler_JAPAN/Platforms
 
       - name: Zip Folder
         run: zip -r Simpler_platforms.zip ./Simpler_USA/Platforms
