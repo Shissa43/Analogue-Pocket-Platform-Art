@@ -7,8 +7,6 @@ You have a choice of MASTER(depending on release), BANNER and SIMPLE.
 
 The **Banner** zip is my main content platform art files. It includes platform logo, system graphics, and a game banner shot.
 
-The **Master** zip will have everything including multiple game banners to choose from for each platforms. This is a work in progress and sometimes may not be available for some releases.
-
 The **Simpler** zip are slightly edited for clarity (increased size/contrast, slight layout shift) [Spiritualize1997 art set](https://github.com/spiritualized1997/openFPGA-Platform-Art-Set). Many thanks to [Spiritualize1997](https://github.com/spiritualized1997) and [agg23](https://github.com/agg23) for the art work. I have now also added system specs/data to the platform art.
 
 Some alternative artworks were added to fill out missing platforms (SegaMarkIII, Poke-mini...).
