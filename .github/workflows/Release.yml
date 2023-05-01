@@ -1,0 +1,35 @@
+name: Create release
+
+on:
+  release:
+    types:
+      - created
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Zip Folder
+        run: cd home; zip -r Simpler_platforms.zip ./Simpler_Japan/Platforms
+
+      - name: Zip Folder
+        run: cd arcade; zip -r Simpler_platforms.zip ./Simpler_USA/Platforms
+        
+      - name: Zip Folder
+        run: cd arcade; zip -r Banners_platforms.zip ./Banners_USA/Platforms
+       
+      - name: Zip Folder
+        run: cd arcade; zip -r Banners_platforms.zip ./Banners_JAPAN/Platforms
+        
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            ./Simpler_platforms.zip
+            ./Banners_platforms.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
