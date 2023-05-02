@@ -16,7 +16,8 @@ Have fun!
 
 | Simple Content |
 | ------------- |
-|  ![simple_specs](https://user-images.githubusercontent.com/123542883/235362325-148e8bbc-1e83-4b2a-be55-e344ffeabddc.gif)
+|  ![FPGAsimpler](https://user-images.githubusercontent.com/123542883/235659257-6f1b54a2-fea7-4d14-8fca-9e0d5b482432.gif)
+
  
 
 
