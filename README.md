@@ -16,7 +16,8 @@ Have fun!
 
 | Simple Content |
 | ------------- |
-|  ![FPGAsimpler](https://user-images.githubusercontent.com/123542883/235664321-0baddcca-d1be-4c6e-b888-3dd25780f0f5.gif)
+|  ![FPGAsimpler](https://github.com/Shissa43/Analogue-Pocket-Platform-Art/assets/123542883/3e719f38-fd44-48ce-89ac-b4d33c643692)
+
 
 
  
