@@ -16,7 +16,7 @@ jobs:
         run: zip -r Simple_platforms.zip ./Simple_Japan/Platforms
 
       - name: Zip Folder
-        run: zip -r Simple_platforms.zip ./Simple_Usa/Platforms
+        run: zip -r Simple_platforms.zip ./Simple_USA/Platforms
         
       - name: Zip Folder
         run: zip -r Home_platforms.zip ./Home_USA/Platforms
