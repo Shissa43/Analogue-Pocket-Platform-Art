@@ -24,7 +24,7 @@ jobs:
       - name: Zip Folder
         run: zip -r Home_platforms.zip ./Home_JAPAN/Platforms
         
-     - name: Zip Folder
+      - name: Zip Folder
         run: zip -r Arcade_platforms.zip ./Platforms
         
       - name: Release
