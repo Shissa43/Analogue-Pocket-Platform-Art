@@ -32,6 +32,9 @@ Have fun!
 
  
 
+| Arcades Content | 
+| ------------- |
+| ![consoles](https://github.com/Shissa43/Analogue-Pocket-Platform-Art/assets/123542883/6c646770-1e8f-41e8-a972-5a863eda2514)
 
 
 
