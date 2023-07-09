@@ -26,9 +26,10 @@ Have fun!
 
 
 
-| Console Banners | Handheld Banners |
-| ------------- | ------------- |
-| ![consoles](https://user-images.githubusercontent.com/123542883/235362684-ccc80290-cd1f-44ce-9ec2-433b4156aece.png) |  ![handhelds](https://user-images.githubusercontent.com/123542883/235362812-c1e5a199-b69a-423e-acfd-f6a759dc2436.png)
+| Home Content | 
+| ------------- |
+| ![consoles](https://github.com/Shissa43/Analogue-Pocket-Platform-Art/assets/123542883/62b3ca40-5d86-49ad-bd91-955c28fd9564)
+
  
 
 
