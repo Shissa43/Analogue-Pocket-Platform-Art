@@ -13,7 +13,7 @@ The **Arcade** zip contains only arcade systems. Some banner .bin names are the 
 
 -Arcade content currently includes:
 [Boogermann](https://github.com/opengateware)
-Cores.
+Cores (and 1 jotego core).
 
 Some alternative artworks were added to fill out missing platforms (SegaMarkIII...).
 Have fun!
