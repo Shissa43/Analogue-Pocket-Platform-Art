@@ -11,6 +11,10 @@ The **Simple** zip are slightly edited for clarity (increased size/contrast, sli
 
 The **Arcade** zip contains only arcade systems. Some banner .bin names are the same for similar arcade board games. These are included in the Extra folder.
 
+-Arcade content currently includes:
+[Boogermann](https://github.com/opengateware)
+Cores.
+
 Some alternative artworks were added to fill out missing platforms (SegaMarkIII...).
 Have fun!
 
