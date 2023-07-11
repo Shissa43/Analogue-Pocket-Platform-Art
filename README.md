@@ -13,7 +13,7 @@ You have a choice of HOME, ARCADE and SIMPLE.
 
 -Arcade content currently includes:
 [Boogermann](https://github.com/opengateware), [antongale](https://github.com/antongale), [ericlewis](https://github.com/ericlewis)
-Cores (and 1 jotego core).
+cores (and 1 jotego core).
 
 Some alternative artworks were added to fill out missing platforms (SegaMarkIII...).
 Have fun!
