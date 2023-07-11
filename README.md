@@ -12,7 +12,7 @@ You have a choice of HOME, ARCADE and SIMPLE.
 ◎　The **Arcade** zip contains only arcade systems. Some banner .bin names are the same for similar arcade board games. These are included in the Extra folder.
 
 -Arcade content currently includes:
-[Boogermann](https://github.com/opengateware)
+[Boogermann](https://github.com/opengateware), [antongale](https://github.com/antongale), [ericlewis](https://github.com/ericlewis)
 Cores (and 1 jotego core).
 
 Some alternative artworks were added to fill out missing platforms (SegaMarkIII...).
