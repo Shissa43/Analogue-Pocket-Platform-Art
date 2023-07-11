@@ -2,7 +2,7 @@
 
 Platform image files for the Analogue Pocket console and handheld Cores!
 
-Go to the [Latest release page](https://github.com/Shissa43/Analogue-Pocket-Platform-Art/releases/tag/v0.2) and download your prefered console region art zip (USA_ or JAPAN_) and copy the .bin files to your Pocket's micro SD card's Platforms/_images folder.
+Go to the [Latest release page](https://github.com/Shissa43/Analogue-Pocket-Platform-Art/releases/tag/v0.2.1) and download your prefered console region art zip (USA_ or JAPAN_) and copy the .bin files to your Pocket's micro SD card's Platforms/_images folder.
 You have a choice of HOME, ARCADE and SIMPLE.
 
 ◎　The **Home** zip is my main content platform art files. It includes platform logo, system graphics, and a game banners for consoles and handheld systems (no computers).
@@ -40,7 +40,8 @@ Have fun!
 
 | Arcades Content | 
 | ------------- |
-| ![consoles](https://github.com/Shissa43/Analogue-Pocket-Platform-Art/assets/123542883/6c646770-1e8f-41e8-a972-5a863eda2514)
+| ![consoles](https://github.com/Shissa43/Analogue-Pocket-Platform-Art/assets/123542883/e4a50c8f-36e7-418d-bd04-05e296667a46)
+
 
 
 
