@@ -12,7 +12,7 @@ You have a choice of HOME, ARCADE and SIMPLE.
 ◎　The **Arcade** zip contains only arcade systems. Some banner .bin names are the same for similar arcade board games. These are included in the Extra folder.
 
 -Arcade content currently includes:
-[Boogermann](https://github.com/opengateware), [antongale](https://github.com/antongale), [ericlewis](https://github.com/ericlewis)
+[Boogermann](https://github.com/opengateware), [antongale](https://github.com/antongale), [ericlewis](https://github.com/ericlewis), [agg23](https://github.com/agg23/openfpga-pong), [pram0d](https://github.com/psomashekar/pram0d-pocket-dist-public), [nullobject](https://github.com/nullobject/openfpga-tecmo) and
 cores (and 1 jotego core).
 
 Some alternative artworks were added to fill out missing platforms (SegaMarkIII...).
