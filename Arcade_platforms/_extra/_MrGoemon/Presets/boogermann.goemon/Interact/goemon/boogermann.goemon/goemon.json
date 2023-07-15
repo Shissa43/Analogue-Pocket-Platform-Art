@@ -1,0 +1,359 @@
+{
+    "interact": {
+        "magic": "APF_VER_1",
+        "variables": [
+            {
+                "name": "Reset Core",
+                "id": 1,
+                "type": "action",
+                "enabled": true,
+                "address": "0xF0000000",
+                "value": 1
+            },
+            {
+                "name": "DIP",
+                "id": 1000,
+                "type": "number_u32",
+                "enabled": false,
+                "address": "0xF1000000"
+            },
+            {
+                "name": "Coin A",
+                "id": 2,
+                "type": "list",
+                "enabled": true,
+                "persist": true,
+                "address": "0xF1000000",
+                "defaultval": 5,
+                "mask": "0xFFFFFFF0",
+                "options": [
+                    {
+                        "name": "4 Coins/1 Credit",
+                        "value": "0x0002"
+                    },
+                    {
+                        "name": "3 Coins/1 Credit",
+                        "value": "0x0005"
+                    },
+                    {
+                        "name": "2 Coins/1 Credit",
+                        "value": "0x0008"
+                    },
+                    {
+                        "name": "3 Coins/2 Credits",
+                        "value": "0x0004"
+                    },
+                    {
+                        "name": "4 Coins/3 Credits",
+                        "value": "0x0001"
+                    },
+                    {
+                        "name": "1 Coin/1 Credit",
+                        "value": "0x000F"
+                    },
+                    {
+                        "name": "3 Coins/4 Credits",
+                        "value": "0x0003"
+                    },
+                    {
+                        "name": "2 Coins/3 Credits",
+                        "value": "0x0007"
+                    },
+                    {
+                        "name": "1 Coin/2 Credits",
+                        "value": "0x000E"
+                    },
+                    {
+                        "name": "2 Coins/5 Credits",
+                        "value": "0x0006"
+                    },
+                    {
+                        "name": "1 Coin/3 Credits",
+                        "value": "0x000D"
+                    },
+                    {
+                        "name": "1 Coin/4 Credits",
+                        "value": "0x000C"
+                    },
+                    {
+                        "name": "1 Coin/5 Credits",
+                        "value": "0x000B"
+                    },
+                    {
+                        "name": "1 Coin/6 Credits",
+                        "value": "0x000A"
+                    },
+                    {
+                        "name": "1 Coin/7 Credits",
+                        "value": "0x0009"
+                    },
+                    {
+                        "name": "Free Play",
+                        "value": "0x0000"
+                    }
+                ]
+            },
+            {
+                "name": "Coin B",
+                "id": 3,
+                "type": "list",
+                "enabled": true,
+                "persist": true,
+                "address": "0xF1000000",
+                "defaultval": 5,
+                "mask": "0xFFFFFF0F",
+                "options": [
+                    {
+                        "name": "4 Coins/1 Credit",
+                        "value": "0x0020"
+                    },
+                    {
+                        "name": "3 Coins/1 Credit",
+                        "value": "0x0050"
+                    },
+                    {
+                        "name": "2 Coins/1 Credit",
+                        "value": "0x0080"
+                    },
+                    {
+                        "name": "3 Coins/2 Credits",
+                        "value": "0x0040"
+                    },
+                    {
+                        "name": "4 Coins/3 Credits",
+                        "value": "0x0010"
+                    },
+                    {
+                        "name": "1 Coin/1 Credit",
+                        "value": "0x00F0"
+                    },
+                    {
+                        "name": "3 Coins/4 Credits",
+                        "value": "0x0030"
+                    },
+                    {
+                        "name": "2 Coins/3 Credits",
+                        "value": "0x0070"
+                    },
+                    {
+                        "name": "1 Coin/2 Credits",
+                        "value": "0x00E0"
+                    },
+                    {
+                        "name": "2 Coins/5 Credits",
+                        "value": "0x0060"
+                    },
+                    {
+                        "name": "1 Coin/3 Credits",
+                        "value": "0x00D0"
+                    },
+                    {
+                        "name": "1 Coin/4 Credits",
+                        "value": "0x00C0"
+                    },
+                    {
+                        "name": "1 Coin/5 Credits",
+                        "value": "0x00B0"
+                    },
+                    {
+                        "name": "1 Coin/6 Credits",
+                        "value": "0x00A0"
+                    },
+                    {
+                        "name": "1 Coin/7 Credits",
+                        "value": "0x0090"
+                    },
+                    {
+                        "name": "No Coin B",
+                        "value": "0x0000"
+                    }
+                ]
+            },
+            {
+                "name": "Lives",
+                "id": 4,
+                "type": "list",
+                "enabled": true,
+                "persist": true,
+                "address": "0xF1000000",
+                "defaultval": 1,
+                "mask": "0xFFFFFCFF",
+                "options": [
+                    {
+                        "name": "2",
+                        "value": "0x0300"
+                    },
+                    {
+                        "name": "3",
+                        "value": "0x0200"
+                    },
+                    {
+                        "name": "5",
+                        "value": "0x0100"
+                    },
+                    {
+                        "name": "7",
+                        "value": "0x0000"
+                    }
+                ]
+            },
+            {
+                "name": "Cabinet",
+                "id": 5,
+                "type": "list",
+                "enabled": true,
+                "persist": true,
+                "address": "0xF1000000",
+                "defaultval": 0,
+                "mask": "0xFFFFFBFF",
+                "options": [
+                    {
+                        "name": "Upright",
+                        "value": "0x0000"
+                    },
+                    {
+                        "name": "Cocktail",
+                        "value": "0x0400"
+                    }
+                ]
+            },
+            {
+                "name": "Bonus Life",
+                "id": 6,
+                "type": "list",
+                "enabled": true,
+                "persist": true,
+                "address": "0xF1000000",
+                "defaultval": 0,
+                "mask": "0xFFFFE7FF",
+                "options": [
+                    {
+                        "name": "20K, Every 60K",
+                        "value": "0x1800"
+                    },
+                    {
+                        "name": "30K, Every 70K",
+                        "value": "0x1000"
+                    },
+                    {
+                        "name": "40K, Every 80K",
+                        "value": "0x0800"
+                    },
+                    {
+                        "name": "50K, Every 90K",
+                        "value": "0x0000"
+                    }
+                ]
+            },
+            {
+                "name": "Difficulty",
+                "id": 7,
+                "type": "list",
+                "enabled": true,
+                "persist": true,
+                "address": "0xF1000000",
+                "defaultval": 1,
+                "mask": "0xFFFF9FFF",
+                "options": [
+                    {
+                        "name": "Easy",
+                        "value": "0x6000"
+                    },
+                    {
+                        "name": "Normal",
+                        "value": "0x4000"
+                    },
+                    {
+                        "name": "Difficult",
+                        "value": "0x2000"
+                    },
+                    {
+                        "name": "Very Difficult",
+                        "value": "0x0000"
+                    }
+                ]
+            },
+            {
+                "name": "Demo Sounds",
+                "id": 8,
+                "type": "list",
+                "enabled": true,
+                "persist": true,
+                "address": "0xF1000000",
+                "defaultval": 1,
+                "mask": "0xFFFF7FFF",
+                "options": [
+                    {
+                        "name": "Off",
+                        "value": "0x8000"
+                    },
+                    {
+                        "name": "On",
+                        "value": "0x0000"
+                    }
+                ]
+            },
+            {
+                "name": "Flip Screen",
+                "id": 9,
+                "type": "list",
+                "enabled": true,
+                "persist": true,
+                "address": "0xF1000000",
+                "defaultval": 0,
+                "mask": "0xFFFEFFFF",
+                "options": [
+                    {
+                        "name": "Off",
+                        "value": "0x10000"
+                    },
+                    {
+                        "name": "On",
+                        "value": "0x0000"
+                    }
+                ]
+            },
+            {
+                "name": "Upright Controls",
+                "id": 10,
+                "type": "list",
+                "enabled": true,
+                "persist": true,
+                "address": "0xF1000000",
+                "defaultval": 0,
+                "mask": "0xFFFDFFFF",
+                "options": [
+                    {
+                        "name": "Single",
+                        "value": "0x20000"
+                    },
+                    {
+                        "name": "Dual",
+                        "value": "0x0000"
+                    }
+                ]
+            },
+            {
+                "name": "Service Mode",
+                "id": 11,
+                "type": "list",
+                "enabled": true,
+                "persist": true,
+                "address": "0xF1000000",
+                "defaultval": 0,
+                "mask": "0xFFFBFFFF",
+                "options": [
+                    {
+                        "name": "Off",
+                        "value": "0x40000"
+                    },
+                    {
+                        "name": "On",
+                        "value": "0x0000"
+                    }
+                ]
+            }
+        ],
+        "messages": []
+    }
+}
