@@ -1,0 +1,39 @@
+{
+    "video": {
+        "magic": "APF_VER_1",
+        "scaler_modes": [
+            {
+                "width": 280,
+                "height": 240,
+                "aspect_w": 4,
+                "aspect_h": 3,
+                "rotation": 90,
+                "mirror": 0
+            },
+            {
+                "width": 280,
+                "height": 240,
+                "aspect_w": 4,
+                "aspect_h": 3,
+                "rotation": 90,
+                "mirror": 0
+            },
+            {
+                "width": 280,
+                "height": 240,
+                "aspect_w": 4,
+                "aspect_h": 3,
+                "rotation": 180,
+                "mirror": 0
+            },
+            {
+                "width": 280,
+                "height": 240,
+                "aspect_w": 4,
+                "aspect_h": 3,
+                "rotation": 180,
+                "mirror": 0
+            }			
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "input": {
+        "magic": "APF_VER_1",
+        "controllers": [
+            {
+                "type": "default",
+                "mappings": [
+                    {
+                        "id": 0,
+                        "name": "Coin",
+                        "key": "pad_btn_select"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Start Player 1",
+                        "key": "pad_btn_start"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Left Fire",
+                        "key": "pad_btn_y"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Center Fire",
+                        "key": "pad_btn_b"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Right Fire",
+                        "key": "pad_btn_a"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+	"instance": {
+		"magic": "APF_VER_1",
+		"variant_select": {
+			"id": 777,
+			"select": false
+		},
+		"data_slots": [
+			{
+				"id": 1,
+				"filename": "getstrb1.rom"
+			}
+		],
+		"memory_writes": [
+			{
+				"address": "0xf1000000",
+				"data": "0x000000ff"
+			},
+			{
+				"address": "0xf2000000",
+				"data": "0x02"
+			}
+		]
+	}
+}
