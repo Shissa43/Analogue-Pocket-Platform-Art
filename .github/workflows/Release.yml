@@ -32,7 +32,7 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            ./Simpler_platforms.zip
+            ./Simple_platforms.zip
             ./Banners_platforms.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
