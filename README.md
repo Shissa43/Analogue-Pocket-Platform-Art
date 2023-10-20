@@ -13,7 +13,7 @@ You have a choice of HOME, ARCADE and SIMPLE.
 
 
 -Arcade content currently includes:
-[Boogermann](https://github.com/opengateware), [antongale](https://github.com/antongale), [ericlewis](https://github.com/ericlewis), [agg23](https://github.com/agg23/openfpga-pong), [pram0d](https://github.com/psomashekar/pram0d-pocket-dist-public), [nullobject](https://github.com/nullobject/openfpga-tecmo) cores (and 1 jotego core).
+[Boogermann](https://github.com/opengateware), [antongale](https://github.com/antongale), [ericlewis](https://github.com/ericlewis), [agg23](https://github.com/agg23/openfpga-pong), [pram0d](https://github.com/psomashekar/pram0d-pocket-dist-public), [nullobject](https://github.com/nullobject/openfpga-tecmo) and all public Jotego cores.
 
 Some alternative artworks were added to fill out missing platforms (SegaMarkIII...).
 Have fun!
