@@ -34,7 +34,8 @@ Have fun!
 
 | Home Content | 
 | ------------- |
-| ![consoles](https://github.com/Shissa43/Analogue-Pocket-Platform-Art/assets/123542883/62b3ca40-5d86-49ad-bd91-955c28fd9564)
+| ![consoles](https://github.com/Shissa43/Analogue-Pocket-Platform-Art/assets/123542883/bd39da30-a948-435d-a2ea-53fc8f5bc678)
+
 
  
 
