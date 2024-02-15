@@ -1,5 +1,0 @@
-Bio Attack © 1983 Taito.
-
-A shoot-em-up where you fight devil-like creatures while trying to save a person's body.
-
-In this shooter, you pilot a microscopic ship through a human body. As you cruise through the bloodstream, you shoot down little devils that throw arrows at you - only 2 bullets can be onscreen at a time. If you move forward, the screen will scroll faster. This is necessary because you have a time limit/oxygen bar that will cost you one life if it runs out. 

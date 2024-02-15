@@ -1,7 +1,0 @@
-High Way Race © 1983 Taito.
-
-A driving game where you attempt to get to the finish line by dodging cars and jumping over the river and then pressing the brake button to stop the car.
-
-Drive through the course and avoid hitting or bumping the other cars otherwise you will explode. You have infinite lives, but you lose fuel (a little for bumping the side of the course or about a square's worth for hitting a car) and usually start again slightly behind where you crashed. 
-
-
