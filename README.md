@@ -9,7 +9,7 @@ You have a choice of HOME, ARCADE and SIMPLE.
 
 ◎　The **Simple** zip are slightly edited for clarity (increased size/contrast, slight layout shift) from the [Spiritualize1997 art set](https://github.com/spiritualized1997/openFPGA-Platform-Art-Set). Many thanks to [Spiritualize1997](https://github.com/spiritualized1997) and [agg23](https://github.com/agg23) for the art work. I have now also added system specs/data to the platform art.
 
-◎　The **Arcade** zip contains only arcade systems. Some banner .bin names are the same for regional differences of these games (mainly in language/title). Muli-core games made into single core are also included (you need to copy the specific game's folder Assets, Cores, Platforms and Presets content to your SD card) All of these are in the _extra folder.
+◎　The **Arcade** zip contains only arcade systems. Some banner .bin names are the same for regional differences of these games (mainly in language/title). 
 
 
 -Arcade content currently includes:
