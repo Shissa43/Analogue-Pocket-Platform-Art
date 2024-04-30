@@ -16,7 +16,9 @@ You have a choice of HOME, ARCADE and SIMPLE.
 [Boogermann](https://github.com/opengateware), [antongale](https://github.com/antongale), [ericlewis](https://github.com/ericlewis), [agg23](https://github.com/agg23/openfpga-pong), [CoinUpCollection](https://github.com/Coin-OpCollection/Distribution-OpenFPGA), [nullobject](https://github.com/nullobject/openfpga-tecmo), [AsesomeDolphin](https://github.com/AwesomeDolphin), [somhi](https://github.com/somhi/FlappyBird), [spacemen3](https://github.com/spacemen3/PDP-1), [Obsidian](https://github.com/obsidian-dot-dev), [Rolandking](https://github.com/rolandking), [Tom Salvo](https://github.com/tsalvo) and all public [Jotego](https://github.com/jotego) cores.
 
 Some alternative artworks were added to fill out missing platforms (SegaMarkIII...).
+
 For an even more comprehensive and up to date collection of platform art checkout [Dyreschlock](https://github.com/dyreschlock)
+
 Have fun!
 
 ![99165](https://user-images.githubusercontent.com/123542883/222607932-414202ec-5a4d-444e-8fb3-b7d1d9ac738c.gif)
