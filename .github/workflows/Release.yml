@@ -13,26 +13,33 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Zip Folder
-        run: zip -r Simple_platforms.zip ./Simple_Japan/Platforms
+        run: zip -r Simple_JP.zip ./Simple_JP/Platforms
 
       - name: Zip Folder
-        run: zip -r Simple_platforms.zip ./Simple_USA/Platforms
+        run: zip -r Simple_USA.zip ./Simple_USA/Platforms
         
       - name: Zip Folder
-        run: zip -r Home_platforms.zip ./Home_USA/Platforms
+        run: zip -r Home_USA.zip ./Home_USA/Platforms
        
       - name: Zip Folder
-        run: zip -r Home_platforms.zip ./Home_JAPAN/Platforms
+        run: zip -r Home_JP.zip ./Home_JP/Platforms
         
       - name: Zip Folder
-        run: zip -r Arcade_platforms.zip ./Platforms
+        run: zip -r Arcade_Single.zip ./Arcade_Single/Platforms
+        
+      - name: Zip Folder
+        run: zip -r Arcade_Multi.zip ./Arcade_Multi/Platforms 
         
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            ./Simple_platforms.zip
-            ./Banners_platforms.zip
+            ./Simple_JP.zip
+            ./Simple_USA.zip
+            ./Home_USA.zip
+            ./Home_JP.zip
+            ./Arcade_Single.zip
+            ./Arcade_Multi.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
