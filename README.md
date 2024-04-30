@@ -13,7 +13,7 @@ You have a choice of HOME, ARCADE and SIMPLE.
 
 
 -Arcade content currently includes:
-[Boogermann](https://github.com/opengateware), [antongale](https://github.com/antongale), [ericlewis](https://github.com/ericlewis), [agg23](https://github.com/agg23/openfpga-pong), [CoinUpCollection](https://github.com/Coin-OpCollection/Distribution-OpenFPGA), [nullobject](https://github.com/nullobject/openfpga-tecmo), [AsesomeDolphin](https://github.com/AwesomeDolphin), [somhi](https://github.com/somhi/FlappyBird), [spacemen3](https://github.com/spacemen3/PDP-1), [Obsidian](https://github.com/obsidian-dot-dev), [Rolandking](https://github.com/rolandking) and all public Jotego cores.
+[Boogermann](https://github.com/opengateware), [antongale](https://github.com/antongale), [ericlewis](https://github.com/ericlewis), [agg23](https://github.com/agg23/openfpga-pong), [CoinUpCollection](https://github.com/Coin-OpCollection/Distribution-OpenFPGA), [nullobject](https://github.com/nullobject/openfpga-tecmo), [AsesomeDolphin](https://github.com/AwesomeDolphin), [somhi](https://github.com/somhi/FlappyBird), [spacemen3](https://github.com/spacemen3/PDP-1), [Obsidian](https://github.com/obsidian-dot-dev), [Rolandking](https://github.com/rolandking), [Tom Salvo](https://github.com/tsalvo) and all public Jotego cores.
 
 Some alternative artworks were added to fill out missing platforms (SegaMarkIII...).
 Have fun!
