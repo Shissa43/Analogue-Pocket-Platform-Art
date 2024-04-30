@@ -17,7 +17,7 @@ You have a choice of HOME, ARCADE and SIMPLE.
 
 Some alternative artworks were added to fill out missing platforms (SegaMarkIII...).
 
-For an even more comprehensive and up to date collection of platform art checkout [Dyreschlock](https://github.com/dyreschlock)
+For an even more comprehensive and up to date collection of platform art checkout [Dyreschlock](https://github.com/dyreschlock/pocket-platform-images) images.
 
 Have fun!
 
